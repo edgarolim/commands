@@ -1,0 +1,104 @@
+___________________________________________________________________________________________			
+			Commands							   |
+===========================================================================================|
+!add	Allows a mod to add a command directly from chat.			Moderators |	
+!edit	Allows a mod to edit a command directly from chat.			Moderators |	
+!remove	Allows a mod to remove a command directly from chat.			Moderators |	
+!enable	Allows a mod to enable or disable a command.				Moderators |
+___________________________________________________________________________________________|	
+			Link Protection							   |
+===========================================================================================|
+Command		Description							Permission |		
+!permit		Give a viewer permission to post a link.			Moderators |		
+___________________________________________________________________________________________|
+			Giveaway							   |
+===========================================================================================|
+Command		Description							Permission |		
+!raffle		Join the active raffle.						-	   |	
+!openraffle	Start accepting raffle entries.					Moderators |	
+!closeraffle	Stop accepting raffle entries.					Moderators |	
+!cancelraffle	Cancel the current raffle.					Moderators |
+___________________________________________________________________________________________|
+			Quotes								   |
+===========================================================================================|
+Command		Description							Permission |		
+!quote		Trigger a random or specific quote.				Everyone   |	
+!addquote	Add a quote through chat.					Moderators |	
+!quoteedit	Edit a quote through chat.					Moderators |	
+!quoteremove	Remove a quote through chat.					Moderators |
+___________________________________________________________________________________________|
+			Queue								   |
+===========================================================================================|
+Command		Description							Permission |		
+!openqueue	Allows a moderator to open the queue from chat.			Moderators |	
+!closequeue	Allows a moderator to close the queue from chat.		Moderators |	
+!join		Allows a viewer to join the queue.				Everyone   |	
+!leave		Allows a viewer to leave the queue.				Everyone   |
+___________________________________________________________________________________________|	
+			Media Share							   |
+===========================================================================================|
+Command		Description							Permission |		
+!request	Add a video to the queue.					Everyone   |	
+!video		Show current video.						Everyone   |	
+!skip		Viewers can vote to skip a video				Everyone   |	
+!veto		Stop playing the current video immediately.			Moderators |	
+!volume		Adjust media share volume.					Moderators |	
+!blacklist	Adds the current video to the blacklist & skips it.		Moderators |	
+!wrongvideo	Allows a user to remove their last requested video.		Everyone   |
+___________________________________________________________________________________________|	
+			Loyalty								   |
+===========================================================================================|
+Command		Description							Permission |		
+!points		Displays the amount of currency the user has.			Everyone   |
+!top		Displays a list of Top users based on points.			Everyone   |
+!tophours	Displays a list of Top users based on hours.			Everyone   |
+!addpoints	Add points to a user using !addpoints <name> <amount>		Moderators |	
+!removepoints	Remove points from a user using !removepoints <name> <amount>	Moderators |	
+!give		Give points from a user using !give <name> <amount>		Everyone   |
+___________________________________________________________________________________________|
+			Heist								   |
+===========================================================================================|
+Command		Description							Permission |		
+!heist		Allows viewers to start a heist.				Everyone   |	
+___________________________________________________________________________________________|
+			Poll								   |
+===========================================================================================|
+Command		Description							Permission |		
+!vote		Register your vote.						-          |
+___________________________________________________________________________________________|		
+			Betting								   |
+===========================================================================================|
+Command		Description							Permission |		
+!bet		Register your bet.						-	   |	
+!mybet		Check what you have bet on.					Everyone   |
+___________________________________________________________________________________________|
+			Misc								   |
+===========================================================================================|
+Command		Description							Permission |		
+!merch		Promotes your Streamlabs Merch Store.				Everyone   |
+!game		Changes the stream game. (Twitch/Mixer)				Moderators |	
+!title		Changes the stream title. (Twitch/Mixer)			Moderators |	
+___________________________________________________________________________________________|
+			Gamble								   |
+===========================================================================================|
+Command		Description							Permission |		
+!gamble		Allows viewers to gamble using their points.			Everyone   |
+___________________________________________________________________________________________|		
+			Eight Ball							   |
+===========================================================================================|
+Command		Description							Permission |		
+!8ball		Allows viewers to ask questions to eight ball.			Everyone   |
+___________________________________________________________________________________________|		
+			Slots								   |
+===========================================================================================|
+Command		Description							Permission |		
+!slots		Allows viewers to gamble points on the slot machine.		Everyone   |
+___________________________________________________________________________________________|		
+			Duel								   |
+===========================================================================================|
+Command		Description							Permission |		
+!duel		Allows viewers to duel with each other for points.		Everyone   |	
+!accept		Allows viewer to accept a duel.					Everyone   |		
+!deny		Allows viewer to deny a duel.					Everyone   |	
+!cancel		Allows viewer to cancel the initiated duel.			Everyone   |
+___________________________________________________________________________________________|	
